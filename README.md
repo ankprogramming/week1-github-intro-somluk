@@ -130,9 +130,9 @@ function fancyAlert(arg) {
 >3.ตั้งน้ำซุปให้เดือด ตอกไข่ไก่ลงในหม้อ เมื่อน้ำเดือดอีกครั้ง จึงใส่หมูหมักลงไป ตามด้วยผักและวุ้นเส้น ปรุงรสด้วยน้ำจิ้มสุกี้ รอให้ผักสุกและส่วนผสมเดือด อีกครั้ง ก็เป็นอันเสร็จ
 >4.ตักใส่ชาม เสิร์ฟพร้อมน้ำจิ้มสุกี้
 **แทรกภาพนักศึกษาถ่ายรูปคู่กับอาหารจานนั้น** 
-![alt text](https://www.google.co.th/search?q=%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B9%8D%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%B5%E0%B9%89&source=lnms&tbm=isch&sa=X&ved=0ahUKEwivpe-kl6DZAhVLKY8KHQBuAGkQ_AUICygC&biw=1366&bih=662#imgrc=X-3ATcR741e5jM:)
+![alt text](https://img.kapook.com/u/2016/surauch/Health/suki2.jpg)
 
-![alt text](https://www.facebook.com/photo.php?fbid=1968607333426891&set=a.1382231442064486.1073741825.100008329299711&type=3&theater)
+![alt text](https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/21371216_1947454652208826_1929682061754009953_n.jpg?oh=a8d3548cdb64a0066054ff5f781e9762&oe=5B11A870)
 **แสดงสิ่งที่รู้และไม่รู้จากสัปดาห์นี้** 
 -[x] การใช้งาน githup
 -[x] การใช้งานไฟล์ปรพเภท markdown
